@@ -10,6 +10,7 @@ void swap (int *e1, int *e2)
   *e1 = *e2;
   *e2 = temp;
 }
+//modification 1
 
 void reverseArray (int *a, int size)
 {
